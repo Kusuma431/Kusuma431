@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Computer Science student and developer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Student+Academic+Researcher;AI+%7C+ML+%7C+Web+Development+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Aspirant;Java+Developer;Student+Academic+Researcher;AI+%7C+ML+%7C+Web+Development+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 - 👩‍🎓 B.Tech in CSE @ **Shri Vishnu Engineering College for Women**, CGPA: 9.31  
 - 📍 From: **Bhimavaram, Andhra Pradesh**
-- 🧠 I’m currently learning **Machine Learning**, **Full Stack Development**, and **AI in Space Tech**
+- 🧠 I’m currently learning **Java Developer**,**Machine Learning**, **Full Stack Development**, **Problem Solver** , and **AI in Space Tech**
 - 🚀 I recently worked on:
   - 🔹 [YouTube Transcript Summarizer](https://github.com/PrasDev4/YouTube-Transcript-Summarizer)
   - 🔹 [Food Waste Management App](https://github.com/PrasDev4/FoodWasteManagement)
