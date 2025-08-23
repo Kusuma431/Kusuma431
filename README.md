@@ -10,15 +10,15 @@
 
 ### 🌱 About Me
 
-- 👩‍🎓 B.Tech in CSE @ **Shri Vishnu Engineering College for Women**, CGPA: 9.31  
+- 👩‍🎓 B.Tech in CSE @ **Shri Vishnu Engineering College for Women**, CGPA: 9.12  
 - 📍 From: **Bhimavaram, Andhra Pradesh**
 - 🧠 I’m currently learning **Java Developer**,**Machine Learning**, **Full Stack Development**, **Problem Solver** , and **AI in Space Tech**
 - 🚀 I recently worked on:
-  - 🔹 [YouTube Transcript Summarizer](https://github.com/PrasDev4/YouTube-Transcript-Summarizer)
-  - 🔹 [Food Waste Management App](https://github.com/PrasDev4/FoodWasteManagement)
-- 📚 Published a research paper on **Student Academic Performance** in **IEEE**
+  - 🔹 [Instagram_Blocker](https://github.com/Kusuma431/Insta_blocker)
+  - 🔹 [Whats_App_Chat_Analysis](https://github.com/Kusuma431/whats-app_chat-analysis)
+- 🌱 Coordinator of the SDG Club, leading initiatives and projects toward sustainable development goals.
 - 🏆 Certified in ML, AWS, Cyber Security, and Big Data  
-- 💬 Ask me about `Python`, `AI/ML`, `SQL`, or `Web Dev`
+- 💬 Ask me about `Java`, `Python`, `AI/ML`, `SQL`, `Problem Solver`, or `Web Dev`
 - 📫 Reach me at: **bellamkondakusuma431@gmail.com**
 
 ---
@@ -55,12 +55,12 @@
 
 ### 🌟 Featured Projects
 
-- 🎯 **[YouTube Transcript Summarizer](https://github.com/PrasDev4/YouTube-Transcript-Summarizer)**  
-  Summarizes YouTube videos using the Gemini API and NLP techniques.
+- 🎯 **[Instagram_Blocker](https://github.com/Kusuma431/Insta_blocker)**  
+  A Python tool to automatically block unwanted Instagram accounts based on user-defined criteria.
   
-- 🌱 **[Food Waste Management App](https://github.com/PrasDev4/FoodWasteManagement)**  
-  A platform to reduce food waste by connecting donors and NGOs.
-
+- 🌱 **[Whats_App_chat_Analysis](https://github.com/Kusuma431/whats-app_chat-analysis)**  
+  A Python tool to analyze WhatsApp chats and generate insights on messaging patterns and trends.
+  
 ---
 
 ### 🧠 Fun Fact
