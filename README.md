@@ -19,7 +19,7 @@
 - 📚 Published a research paper on **Student Academic Performance** in **IEEE**
 - 🏆 Certified in ML, AWS, Cyber Security, and Big Data  
 - 💬 Ask me about `Python`, `AI/ML`, `SQL`, or `Web Dev`
-- 📫 Reach me at: **prasannadevireddy4@gmail.com**
+- 📫 Reach me at: **bellamkondakusuma431@gmail.com**
 
 ---
 
@@ -39,9 +39,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PrasDev4&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PrasDev4&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kusuma431&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kusuma431&theme=tokyonight" />
 </p>
+
 
 ---
 
