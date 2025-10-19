@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Computer Science student and developer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Aspirant;Java+Developer;Student+Academic+Researcher;AI+%7C+ML+%7C+Web+Development+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Science+Aspirant;Java+Developer;Student+Academic+Researcher;AI+%7C+ML+%7C+Web+Development+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
